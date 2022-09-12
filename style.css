@@ -17,23 +17,39 @@
 	position: relative;
 }
 
+input[type=text]:focus {
+  border: 3px solid rgb(179, 153, 255);
+}
+
+input[type=password]:focus {
+  border: 3px solid rgb(179, 153, 255);
+
+}
+
 
 .email
 {
 	width:333px;
-	height: 35px;
+	height: 40px;
+	box-sizing: border-box;
+	border: 3px solid white;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	outline: none;
 	border-radius: 7px;
-	border: none;
 }
 
 
 .password
 {
 	width:333px;
-	height: 35px;
+	height: 40px;
+	box-sizing: border-box;
+	border: 3px solid white;;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	outline: none;
 	border-radius: 7px;
-	border: none;
-	
 }
 .login-box
 {
