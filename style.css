@@ -1,0 +1,162 @@
+.big-background
+{
+	padding-top: 96px;
+    background: url(../img/discord.png) no-repeat center center fixed #000;
+	
+}
+
+.login-containter
+{
+	padding: 100px;
+}
+
+.login-box img
+{
+	left: 29px;
+	top: 18px;
+	position: relative;
+}
+
+
+.email
+{
+	width:333px;
+	height: 35px;
+	border-radius: 7px;
+	border: none;
+}
+
+
+.password
+{
+	width:333px;
+	height: 35px;
+	border-radius: 7px;
+	border: none;
+	
+}
+.login-box
+{
+	
+	background-color: rgb(64, 64, 64);
+	width: 400px;
+	height: 450px;
+	border-radius: 7px;
+	margin: auto;
+	box-shadow: 2px;
+	box-shadow: 0px 0px 7px white;
+	
+}
+
+ .top-login h1
+{
+	padding-top: 38px;
+	padding-left: 30px;
+	font-family: OCR A Std, monospace;
+	color: white;
+	size: 20px;
+	text-align: left;
+	top: -56px;
+	position: relative;
+	
+}
+
+/*.login p
+{
+	padding-top: 80px;
+	padding-left: 30px;
+	font-family: OCR A Std, monospace;
+	color: white;
+	text-size: 10px;
+	text-align: left;
+
+}*/
+form
+{
+	padding-top:6px;
+	padding-left: 31px;
+}
+
+label
+{
+	
+	font-family: OCR A Std, monospace;
+	color: white;
+	size: 20px;
+	text-align: left;
+
+}
+
+.box1
+{
+	background-color: grey;
+	height: 100px;
+}
+
+/*.login-btn-box
+{
+	box-shadow: 0px 0px 7px white;
+	color: white;
+	font-family: OCR A Std, monospace;
+	background-color: grey;
+	width: 250px;
+	height: 22px;
+	border-radius: 5px;
+	margin: auto;
+	size: 30px;
+	
+}
+*/
+.login-btn
+{
+	box-shadow: 0px 0px 7px white;
+	color: white;
+	font-family: OCR A Std, monospace;
+	background-color: grey;
+	width: 337px;
+	height: 35px;
+	border-radius: 5px;
+	border: none;
+	justify-content: center;
+	
+	
+	
+}
+
+
+.login-btn:hover
+{
+	color: black;
+	background-color: white;
+	cursor: pointer;
+} 
+
+.signin-box
+{
+	text-align: center;
+}
+
+.signin
+{
+	
+}
+
+p
+{
+	color: white;
+	font-family: OCR A Std, monospace;
+}
+
+a
+{
+	color: rgb(179, 153, 255);
+	font-family: OCR A Std, monospace;
+	position: relative;
+	top: -14px;
+
+}
+
+a:hover
+{
+	color:white;
+}
